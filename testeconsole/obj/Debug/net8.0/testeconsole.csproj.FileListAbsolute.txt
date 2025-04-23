@@ -1,0 +1,14 @@
+C:\Users\207.cllamaral\testlog\testeconsole\bin\Debug\net8.0\testeconsole.exe
+C:\Users\207.cllamaral\testlog\testeconsole\bin\Debug\net8.0\testeconsole.deps.json
+C:\Users\207.cllamaral\testlog\testeconsole\bin\Debug\net8.0\testeconsole.runtimeconfig.json
+C:\Users\207.cllamaral\testlog\testeconsole\bin\Debug\net8.0\testeconsole.dll
+C:\Users\207.cllamaral\testlog\testeconsole\bin\Debug\net8.0\testeconsole.pdb
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.AssemblyInfoInputs.cache
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.AssemblyInfo.cs
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.csproj.CoreCompileInputs.cache
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.dll
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\refint\testeconsole.dll
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.pdb
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\testeconsole.genruntimeconfig.cache
+C:\Users\207.cllamaral\testlog\testeconsole\obj\Debug\net8.0\ref\testeconsole.dll
