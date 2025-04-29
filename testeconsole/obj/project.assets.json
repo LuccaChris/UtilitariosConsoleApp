@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\207.cllamaral\\testlog\\testeconsole\\testeconsole.csproj",
+      "projectUniqueName": "C:\\Users\\207.cllamaral\\Documents\\GitHub\\BotTLG\\BotTLG\\teste\\testeconsole\\testeconsole.csproj",
       "projectName": "testeconsole",
-      "projectPath": "C:\\Users\\207.cllamaral\\testlog\\testeconsole\\testeconsole.csproj",
+      "projectPath": "C:\\Users\\207.cllamaral\\Documents\\GitHub\\BotTLG\\BotTLG\\teste\\testeconsole\\testeconsole.csproj",
       "packagesPath": "C:\\Users\\207.cllamaral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\207.cllamaral\\testlog\\testeconsole\\obj\\",
+      "outputPath": "C:\\Users\\207.cllamaral\\Documents\\GitHub\\BotTLG\\BotTLG\\teste\\testeconsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\207.cllamaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
