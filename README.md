@@ -69,7 +69,7 @@ Cada produto tem **ID**, **nome** e **preço**.
 
 Terminal/Console ativo para entrada e saída de dados
 
-##👨🏻‍💻 Autor
+## 👨🏻‍💻 Autor
 Desenvolvido por Chris Lucca 👋
 Este projeto é parte de minha jornada de aprendizado em C#.
 
